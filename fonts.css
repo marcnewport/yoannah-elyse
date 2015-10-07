@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+
+
+@font-face {
+    font-family: 'Gentium Book Basic';
+    src: url('fonts/gentiumbookbasic-regular.eot');
+    src: url('fonts/gentiumbookbasic-regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/gentiumbookbasic-regular.woff') format('woff'),
+         url('fonts/gentiumbookbasic-regular.ttf') format('truetype'),
+         url('fonts/gentiumbookbasic-regular.svg#gentiumbookbasic-regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gentium Book Basic';
+    src: url('fonts/gentiumbookbasic-bold.eot');
+    src: url('fonts/gentiumbookbasic-bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/gentiumbookbasic-bold.woff') format('woff'),
+         url('fonts/gentiumbookbasic-bold.ttf') format('truetype'),
+         url('fonts/gentiumbookbasic-bold.svg#gentiumbookbasic-bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/opensans-light.eot');
+    src: url('fonts/opensans-light.eot?#iefix') format('embedded-opentype'),
+         url('fonts/opensans-light.woff') format('woff'),
+         url('fonts/opensans-light.ttf') format('truetype'),
+         url('fonts/opensans-light.svg#opensans-light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/opensans-regular.eot');
+    src: url('fonts/opensans-regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/opensans-regular.woff') format('woff'),
+         url('fonts/opensans-regular.ttf') format('truetype'),
+         url('fonts/opensans-regular.svg#opensans-regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('fonts/opensans-extrabold.eot');
+    src: url('fonts/opensans-extrabold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/opensans-extrabold.woff') format('woff'),
+         url('fonts/opensans-extrabold.ttf') format('truetype'),
+         url('fonts/opensans-extrabold.svg#opensans-extrabold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
